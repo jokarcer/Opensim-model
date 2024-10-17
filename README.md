@@ -1,0 +1,1 @@
+Twelve actuators were added to simulate the internal muscles of the hand. The model included flexion/extension degrees of freedom for each interphalangeal joint (IP) of the five fingers, flexion/extension degrees of freedom for the metacarpophalangeal joint (MCP), and lateral degrees of freedom for each finger. The model supports running forward dynamics tools.
